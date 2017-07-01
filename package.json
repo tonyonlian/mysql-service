@@ -1,6 +1,6 @@
 {
   "name": "light-api-mysql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "the plgin of the hapi for mysql service ",
   "main": "./lib",
   "scripts": {
